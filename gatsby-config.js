@@ -3,7 +3,7 @@ module.exports = {
     title: `The Khai Dev`,
     description: `Personal website of Khai Tran`,
     author: `Khai Tran`,
-    siteUrl: `thekhai.dev`,
+    siteUrl: `https://www.thekhai.dev`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
